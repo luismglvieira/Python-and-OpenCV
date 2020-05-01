@@ -1,7 +1,7 @@
 # openCvTutorials
 Applying my Computer Vision knowledge to OpenCV libraries.
 
-This will act as a complement to my knowledge on Computer Vision for Matlab, which was aquired in my master's degree in Mechanical Engineering. You can find my Matlab projects on folder "00 - A Matlab prelude on Computer Vision". I call it a prelude because it's a prelude to my OpenCV learning, but I have some complex projects in there.
+This will act as a complement to my knowledge on Computer Vision for Matlab, which was aquired in my master's degree in Mechanical Engineering. You can find my Matlab projects on folder "00 - A Matlab prelude on Computer Vision". I call it a prelude because it's a prelude to my OpenCV learning, but I have some complex bits of code in there and some fun algorithms.
 
 The reasoning behind my decision to learn OpenCV is that Matlab requires a rather expensive license, so the companies don't use it and they usually overlook my skills. This is why I opted to start learning an open source library, and it's very exciting that it has a growing community. At the same time, I always wanted to learn Python because it's open source, and it's perfect to use on Linux and Arduino, two platforms that I use on a daily basis. So it all comes together for me to start mastering OpenCV.
 
