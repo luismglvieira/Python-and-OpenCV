@@ -7,7 +7,7 @@ The reasoning behind this decision is that Matlab requires an expensive license,
 
 At the same time, I always wanted to learn Python because it's open source, and it's perfect to use on Linux and Arduino. So it all comes together for me to start mastering OpenCV.
 
-I'll start by watching a free course for the IDE PyCharm available on youtube. You can find the link to this playlist down below. The files associated with this course can be found in the folder "01 - OpenCV Python Tutorial For Beginners".
+I'll start by watching a free course for the IDE PyCharm available on youtube. You can find the link to this playlist down below. My files associated with this course can be found in the folder "01 - OpenCV Python Tutorial For Beginners". https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 
 Second group of tutorials are taken from the book "Learning OpenCV: Computer Vision with the OpenCV Library" by Gary Bradski & Adrian Kaebler. The files can be found in the folder "02 - Learning OpenCV - Computer Vision with the OpenCV Library". I plan to go back and forth between this book and the youtube playlist.
 
@@ -25,4 +25,4 @@ https://docs.opencv.org/master/
 
 https://opencv.org/books/
 
-https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
+
