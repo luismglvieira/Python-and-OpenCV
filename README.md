@@ -9,7 +9,11 @@ At the same time, I always wanted to learn Python because it's open source, and 
 
 I'll start by watching a free course for the IDE PyCharm available on youtube. You can find the link to this playlist down below. The files associated with this course can be found in the folder "01 - OpenCV Python Tutorial For Beginners".
 
-Second group of tutorials are taken from the book "Learning OpenCV: Computer Vision with the OpenCV Library" by Gary Bradski & Adrian Kaebler. The files can be found in the folder "02 - Learning OpenCV - Computer Vision with the OpenCV Library".
+Second group of tutorials are taken from the book "Learning OpenCV: Computer Vision with the OpenCV Library" by Gary Bradski & Adrian Kaebler. The files can be found in the folder "02 - Learning OpenCV - Computer Vision with the OpenCV Library". I plan to go back and forth between this book and the youtube playlist.
+
+When I finish these two, I'll start this course on Udemy. It's supposed to have more advanced content and not for actual beginners. We'll see. This is the one: https://www.udemy.com/course/master-deep-learning-computer-visiontm-cnn-ssd-yolo-gans/
+
+
 
 Some useful links:
 
