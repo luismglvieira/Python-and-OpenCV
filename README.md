@@ -10,8 +10,13 @@ At the same time, I always wanted to learn Python because it's open source, and 
 First set of tutorials are taken from the book "Learning OpenCV: Computer Vision with the OpenCV Library" by Gary Bradski & Adrian Kaebler.
 
 Some useful links:
+
 https://opencv.org
+
 https://docs.opencv.org
+
 https://docs.opencv.org/master/
+
 https://opencv.org/books/
+
 https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
