@@ -5,6 +5,8 @@ This will act as a complement to my knowledge on Computer Vision for Matlab, whi
 
 The reasoning behind this decision is that Matlab requires an expensive license, so the companies don't use it and usually overlook my skill. This is why I opt to learn an open source library, and it's very exciting that it has a growing community.
 
+At the same time, I always wanted to learn Python because it's open source, and it's perfect to use on Linux and Arduino. So it all comes together for me to start mastering OpenCV.
+
 First set of tutorials are taken from the book "Learning OpenCV: Computer Vision with the OpenCV Library" by Gary Bradski & Adrian Kaebler.
 
 
