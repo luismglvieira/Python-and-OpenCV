@@ -11,7 +11,7 @@ I'll start by watching a free course for the IDE PyCharm available on youtube. Y
 
 To run the .py files and test these codes yourself, you need to download the samples folder on https://github.com/opencv/opencv and paste it in this project folder. You can see on my .py files that I usually call out files from these directories, like images, because I didn't want to duplicate these files and move them around. I wanted to read them directly from their original source. Maybe later I adapt the code and add all files to the root folder.
 
-Also, if you're using PyCharm you need to add the package opencv-python to your Settings/Project-Interpreter. Also make sure to have at least Python 3.8 loaded up. That's all to run these codes, it's a pretty easy configuration.
+Also, if you're using PyCharm you need to add the package opencv-python to your Settings/Project-Interpreter. Also make sure to have at least Python 3.8 loaded up. That's all to run these codes, it's a pretty easy configuration. At least for Linux this is all you need, if you're using Windows, check [this link(https://www.youtube.com/watch?v=d3AT9EGp4iw)]
 
 **02 - Learning OpenCV - Computer Vision with the OpenCV Library**
 
