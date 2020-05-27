@@ -5,6 +5,11 @@ This will act as a complement to my knowledge on Computer Vision for Matlab, whi
 
 The reasoning behind my decision to learn OpenCV is that Matlab requires a rather expensive license, so the companies don't use it and they usually overlook my skills. This is why I opted to start learning an open source library, and it's very exciting that it has a growing community. At the same time, I always wanted to learn Python because it's open source, and it's perfect to use on Linux and Arduino, two platforms that I use on a daily basis. So it all comes together for me to start mastering OpenCV.
 
+**00 - Python3 Tutorial for beginner**
+
+First of all we need to learn Python. I'll do a Python3 course lectured by the same person that will lecture the OpenCV course for beginners. This time I'll use the IDE Spyder to edit the files and easily check out variables. My files associated with this course can be found in the folder "00 - Python3 Tutorials". [Link for the youtube playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIYt4e0WnBp-ZjCNq8X0FX0J)
+
+
 **01 - OpenCV Python Tutorial For Beginners**
 
 I'll start by watching a free course for the IDE PyCharm available on youtube. You can find the link to this playlist down below. My files associated with this course can be found in the folder "01 - OpenCV Python Tutorial For Beginners". [Link for the youtube playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
