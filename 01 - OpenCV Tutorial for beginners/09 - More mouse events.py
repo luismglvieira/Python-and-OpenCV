@@ -19,6 +19,7 @@ def click_event(event, x, y, flags, param):
         myColorImage = np.zeros((152,152,3), np.uint8) #black BGR image
         myColorImage[:] = [blue,green,red]
         cv2.imshow('color',myColorImage)
+        
 img = cv2.imread('03 - lena_copy.png')
 cv2.imshow('image',img)
 pnts = []
