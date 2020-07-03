@@ -10,6 +10,8 @@ mouseClick = ()
 mouseRelease = ()
 leftClick = False
 
+
+# This mouse event segment is not need in this iteration of the project
 def mouse_event(event, x, y, flags, param):
     global mousePos, mouseClick, mouseRelease, leftClick
     
@@ -42,6 +44,8 @@ cv2.createTrackbar('threshold_R','image',0,300,nothing)
 cv2.createTrackbar('max_binary_R','image',0,300,nothing)
 cv2.createTrackbar('threshold_algorithm','image',0,4,nothing)
 
+algorithms_list = [cv2.THRESH_BINARY,cv2.THRESH_BINARY_INV,cv2.THRESH_TRUNC,cv2.THRESH_TOZERO,cv2.THRESH_TOZERO_INV]
+
 while(1):
     threshold_B = cv2.getTrackbarPos('threshold_B','image')
     max_binary_B = cv2.getTrackbarPos('max_binary_B','image')
@@ -50,16 +54,8 @@ while(1):
     threshold_R = cv2.getTrackbarPos('threshold_R','image')
     max_binary_R = cv2.getTrackbarPos('max_binary_R','image')
     thresh_algorithm = cv2.getTrackbarPos('threshold_algorithm','image')
-    if thresh_algorithm == 0:
-        thrAlg = cv2.THRESH_BINARY
-    elif thresh_algorithm == 1:
-        thrAlg = cv2.THRESH_BINARY_INV
-    elif thresh_algorithm == 2:
-        thrAlg = cv2.THRESH_TRUNC
-    elif thresh_algorithm == 3:
-        thrAlg = cv2.THRESH_TOZERO
-    else:
-        thrAlg = cv2.THRESH_TOZERO_INV
+    
+    thrAlg = algorithms_list[thresh_algorithm]
         
     b_copy = np.copy(b)
     g_copy = np.copy(g)
